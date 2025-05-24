@@ -1,4 +1,4 @@
 # cop2800
-Intro to Java
+Java Programming
 
 Includes varied assignmends from COP 2800
